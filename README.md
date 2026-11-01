@@ -32,10 +32,11 @@ Show the factorial result in a TextView.
 End.
 
 ## PROGRAM:
-
-Program to implement ExplicitIntent .<br>
-Developed by: SURYANARAYANAN T <br>
-Registeration Number :212224040341 <br>
+```
+Program to implement ExplicitIntent.
+Developed by: SUDARSAN.A
+Registration Number :212224220111
+```
 ### MainActivity.java
 ```java
 package com.example.explicitintent;
