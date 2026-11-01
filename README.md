@@ -207,15 +207,23 @@ public class MainActivity2 extends AppCompatActivity
 ```
 ## OUTPUT
 ### MainActivity.java
-<img width="1920" height="1080" alt="Screenshot 2025-09-27 210840" src="https://github.com/user-attachments/assets/7b029e06-a7d5-4600-9c7a-9445d20e68da" /><br>
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/31c9c588-b1e9-46d4-87aa-91f3d3369337" />
+
 ### activity_main.xml
-<img width="1920" height="1080" alt="Screenshot 2025-09-27 211037" src="https://github.com/user-attachments/assets/558fda33-7dda-49a9-8781-f55f274d95c3" /><br>
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/edbdb3cb-260a-4143-b5ed-1bb183d76f8b" />
+
 ### activity_main2.xml
-<img width="1920" height="1080" alt="Screenshot 2025-09-27 211046" src="https://github.com/user-attachments/assets/a403d3f7-1743-4fb3-a5a0-25a7deeed0cf" /><br>
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/2b8368f0-8d05-45c7-93fc-b781937f7afa" />
+
 ### First Screen
-<img width="364" height="802" alt="Screenshot 2025-09-27 211543" src="https://github.com/user-attachments/assets/82e784a8-4160-4bb9-96ec-b639670ff8d3" /><br>
-### Secod Screen 
-<img width="366" height="799" alt="Screenshot 2025-09-27 211613" src="https://github.com/user-attachments/assets/b4418441-d724-4bbc-96fd-eafbf08fc9ba" /><br>
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/98a89e4e-69c5-4011-86e7-25daf6322621" />
+<img width="245" height="451" alt="image" src="https://github.com/user-attachments/assets/2c032fd5-d9bf-4611-8b2c-35b3cdea87f9" />
+
+
+### Second Screen 
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/14ba4611-f3f8-49f9-9c8b-b9f5545ae72f" />
+<img width="244" height="454" alt="image" src="https://github.com/user-attachments/assets/3a7a0516-3ad7-4cc4-bfda-c55b7d79bc41" />
+
 
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
